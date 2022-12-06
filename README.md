@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [repository](https://github.com/shalash23/Product-preview-card)
-- Live Site URL: [URL](https://your-live-site-url.com)
+- Live Site URL: [URL](https://gleeful-fudge-99670b.netlify.app/)
 
 ## My process
 
